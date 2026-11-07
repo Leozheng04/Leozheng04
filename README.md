@@ -1,4 +1,4 @@
-# Hello, everyone! My Name is Leo 
+# Hello, everyone! I'm Leo a computer science student
 ## I’m interested in full-stack development, mobile app development, and machine learning.
 
 <a href="https://github.com/Leozheng04?tab=repositories">
