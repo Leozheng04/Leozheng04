@@ -1,5 +1,6 @@
-# Hello, everyone! I'm Leo a computer science student
-## I’m interested in full-stack development, mobile app development, and machine learning.
+# Hi, I'm Leo 👋
+
+I'm a computer science student interested in full-stack development, mobile apps, and machine learning.
 
 <a href="https://github.com/Leozheng04?tab=repositories">
   <img
